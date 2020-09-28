@@ -3,6 +3,8 @@
 
 功能：gojson包提供json数据打平成key-value结构，和key-value结构组合成json结构。
 
+关键词：json，keyvalue，js，kv，js2kv，json2kv，json2keyvalue
+
 图示：
 
 ![image](js2kv.png)
