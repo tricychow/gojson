@@ -9,6 +9,8 @@
 
 Js2kv
 
+​	原理：递归解析json。
+
 ```
 package main
 
@@ -24,6 +26,8 @@ func main(){
 ```
 
 Kv2js
+
+​	原理：拆分多级key，类型强转。
 
 ```
 package main
