@@ -10,7 +10,7 @@ import (
 
 var kv =  make(map[string]interface{})
 
-// convert json to key value
+// Js2kv convert json to key value
 // data: json string
 // sep: separation
 // return: key-value string
@@ -33,7 +33,7 @@ func Js2kv(data, sep string)(string, error){
 	return string(kvb), nil
 }
 
-// convert key value to json
+// Kv2js convert key value to json
 // data: key-value string
 // sep: separation
 // return: json string

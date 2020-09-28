@@ -1,5 +1,17 @@
 # gojson
-gojson包提供json数据打平成key-value结构，和key-value结构组合成json结构。
+背景：在使用go语言处理json深层嵌套和key-value结构相互转化时没有找到合适的包，于是自己写了一个。
+
+---
+
+功能：gojson包提供json数据打平成key-value结构，和key-value结构组合成json结构。
+
+---
+
+图示：
+
+![image-20200928171952386](C:\Users\Joe\AppData\Roaming\Typora\typora-user-images\image-20200928171952386.png)
+
+---
 
 Js2kv
 
