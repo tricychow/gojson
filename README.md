@@ -9,7 +9,7 @@
 
 图示：
 
-![image-20200928171952386](C:\Users\Joe\AppData\Roaming\Typora\typora-user-images\image-20200928171952386.png)
+![image](js2kv.png)
 
 ---
 
